@@ -1,4 +1,4 @@
-module github.com/kenjitheman/newsman
+module github.com/nezutero/newsman
 
 go 1.21.3
 
